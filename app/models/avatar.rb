@@ -1,3 +1,4 @@
-Class Avatar < ActiveRecord::Base
-    has_many ;users
-end
+class Avatar < ActiveRecord::Base
+    has_many :users
+    
+   end

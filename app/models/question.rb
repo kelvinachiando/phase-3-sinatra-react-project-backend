@@ -1,2 +1,2 @@
-Class Level < ActiveRecord::Base
+Class Question < ActiveRecord::Base
 end

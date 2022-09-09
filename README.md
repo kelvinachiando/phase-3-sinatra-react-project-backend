@@ -26,7 +26,7 @@ The front end to this project can be accessed through the following live link:
 https://kelvinachiando.github.io/phase-3-react-sinatra-project-frontend/
 
 # Technologies Used
-1. Sinatra React
+1. Ruby Sinatra
 2. SQL
 
 # Contact and Support

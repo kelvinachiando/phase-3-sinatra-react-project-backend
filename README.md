@@ -21,6 +21,7 @@ Users can log into the app, and play the game. They log in by writing their user
 
 # Live Link
 https://code-quiz-app-front.herokuapp.com/
+https://code-quiz-app-back.herokuapp.com/
 
 # Git-hub link
 https://kelvinachiando.github.io/phase-3-sinatra-react-project-backend/

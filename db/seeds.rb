@@ -62,7 +62,7 @@ questionThirteen = Question.create(level_id: levelFive.id, question:"SQL stands 
 questionFourteen = Question.create(level_id: levelFive.id, question:"true or false? An object is a bundle of code that defines both data and behaviors", answer:"true")
 questionFifteen = Question.create(level_id: levelFive.id, question:"To store data that will be represented as a whole number, which data type is used?", answer:"integer")
 
-# monsters
+# trophies
 
 trophyOne = Trophy.create(name:"KPL Trophy", image_url: "https://soka25east.com/wp-content/uploads/2014/11/kpl-trophy.gif", level_id:levelOne.id, points: 100)
 trophyTwo = Trophy.create(name:"EFL Trophy", image_url: "https://www.efl.com/siteassets/image/202021/papa-johns-trophy/pjtrelease.png/Large", level_id:levelTwo.id, points: 500)
